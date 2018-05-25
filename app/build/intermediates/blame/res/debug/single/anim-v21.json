@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/andres/.android/build-cache/00507b6d327610842fa6c501ce9d524ba7d5a0aa/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/andres/.android/build-cache/00507b6d327610842fa6c501ce9d524ba7d5a0aa/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

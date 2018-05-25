@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_fav_yes.png",
+        "source": "/home/andres/Documentos/Android/JazzFestivalApp/app/src/main/res/drawable-mdpi/ic_action_fav_yes.png"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_fav_no.png",
+        "source": "/home/andres/Documentos/Android/JazzFestivalApp/app/src/main/res/drawable-mdpi/ic_action_fav_no.png"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_hamb.png",
+        "source": "/home/andres/Documentos/Android/JazzFestivalApp/app/src/main/res/drawable-mdpi/ic_action_hamb.png"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_prev.png",
+        "source": "/home/andres/Documentos/Android/JazzFestivalApp/app/src/main/res/drawable-mdpi/ic_action_prev.png"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_play.png",
+        "source": "/home/andres/Documentos/Android/JazzFestivalApp/app/src/main/res/drawable-mdpi/ic_action_play.png"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_pause.png",
+        "source": "/home/andres/Documentos/Android/JazzFestivalApp/app/src/main/res/drawable-mdpi/ic_action_pause.png"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_next.png",
+        "source": "/home/andres/Documentos/Android/JazzFestivalApp/app/src/main/res/drawable-mdpi/ic_action_next.png"
+    }
+]

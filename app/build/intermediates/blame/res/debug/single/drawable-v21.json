@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/andres/.android/build-cache/00507b6d327610842fa6c501ce9d524ba7d5a0aa/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/andres/.android/build-cache/00507b6d327610842fa6c501ce9d524ba7d5a0aa/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-v21/tw__like_action.xml",
+        "source": "/home/andres/.android/build-cache/f54e5076ccfcd53853b255c034d56dee816630fb/output/res/drawable-v21/tw__like_action.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/andres/.android/build-cache/00507b6d327610842fa6c501ce9d524ba7d5a0aa/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/andres/.android/build-cache/00507b6d327610842fa6c501ce9d524ba7d5a0aa/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

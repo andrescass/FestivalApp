@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        custom-flags="--core-library"
+        is-multidex="true"
+        jar="/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_55711e9e2ab72a5f65952503484e5bfdc9070a4f/classes.dex" />
+    </item>
+    <item
+        custom-flags="--core-library"
+        is-multidex="true"
+        jar="/home/andres/Documentos/Android/JazzFestivalApp/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_5f192985b88c18f802d29e9a458b628b6d362675/classes.dex" />
+    </item>
+    <item
+        custom-flags="--core-library"
+        is-multidex="true"
+        jar="/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8db87c03f87bf97f756bbff48f5ba0a34e86f452">
+        <dex dex="/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e8065d3274f180ac6d3252e8891b5d44b1c86b0/classes.dex" />
+    </item>
+
+</items>

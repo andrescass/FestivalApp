@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/artist_list_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@color/colorPrimaryDarkTransp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/artist_list_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_horizontal"
+            android:foregroundGravity="center|center_horizontal"
+            android:gravity="center_horizontal"
+            android:textAllCaps="true"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="26dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/artist_list_show"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp"
+            android:textColor="@color/colorSecondaryText"
+            android:textSize="18dp"
+            android:textStyle="italic"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/artist_list_fav_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/ic_action_fav_no" />
+
+</FrameLayout>

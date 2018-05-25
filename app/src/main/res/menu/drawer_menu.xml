@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_draw_novedades"
+            android:title="@string/menu_draw_news"
+            />
+        <item
+            android:id="@+id/menu_draw_artistas"
+            android:title="@string/menu_draw_artists"
+            />
+        <item
+            android:id="@+id/menu_draw_agenda"
+            android:title="@string/menu_draw_calendar"
+            />
+        <item
+            android:id="@+id/menu_draw_fav"
+            android:title="@string/menu_draw_favs"
+            />
+        <item
+            android:id="@+id/menu_draw_media"
+            android:title="@string/menu_draw_social"
+            />
+        <item
+            android:id="@+id/menu_draw_infoutil"
+            android:title="@string/menu_draw_info"
+            />
+        <item
+            android:id="@+id/menu_draw_donation"
+            android:title="@string/menu_draw_donations"
+            />
+        <item
+            android:id="@+id/menu_draw_map"
+            android:title="@string/menu_draw_map"
+            />
+    </group>
+</menu>

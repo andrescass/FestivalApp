@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="tw__time_hours">
+        <item quantity="one">1ঘ</item>
+        <item quantity="other">%dঘ</item>
+    </plurals>
+    <plurals name="tw__time_mins">
+        <item quantity="one">1মি</item>
+        <item quantity="other">%dমি</item>
+    </plurals>
+    <plurals name="tw__time_secs">
+        <item quantity="one">1সে</item>
+        <item quantity="other">%dসেকেন্ড</item>
+    </plurals>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> দেখুন এবং উপরে দেখানো কোডটিকে প্রবেশ করান৷</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">একটি ছবি ডাউনলোড করার সময় অপ্রত্যাশিত ত্রুটি ঘটেছে৷</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">WebView লগ ইনের ইন্টারনেটের অনুমতি প্রয়োজন</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">AndroidManifest ত্রুটি</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">পছন্দ করেছে</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">লাইক</string>
+    <string gender="unknown" name="com_facebook_loading">লোড হচ্ছে…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">বাতিল করুন</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">লগ ইন করুন</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">Facebook এর সাথে চালিয়ে যান</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">Facebook দিয়ে লগইন করুন</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">লগ আউট করুন</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">লগ আউট করুন</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">%1$s হিসাবে লগ ইন করা হয়েছে।</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">Facebook ব্যবহার করার মাধ্যমে লগ ইন করা হয়েছে</string>
+    <string gender="unknown" name="com_facebook_send_button_text">পাঠান</string>
+    <string gender="unknown" name="com_facebook_share_button_text">শেয়ার করুন</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">আপনার অ্যাকাউন্ট সংযুক্ত করতে, আপনার মোবাইল ডিভাইসে Facebook অ্যাপ খুলুন এবং বিজ্ঞপ্তিগুলির জন্য পরীক্ষা করুন।</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- বা -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">আপনি নন?</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">%1$s হিসাবে চালিয়ে যান</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">লগ ইন নিশ্চিত করুন</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">আপনার নিয়ন্ত্রণ রয়েছে - আপনি অ্যাপগুলির সাথে কোন তথ্য শেয়ার করতে চান সেটি বেছে নিন।</string>
+    <string name="messenger_send_button_text">প্রেরণ করুন</string>
+    <string name="tw__like_tweet">টুইট পছন্দ করুন</string>
+    <string name="tw__liked_tweet">পছন্দ ফিরিয়ে নিন</string>
+    <string name="tw__loading_tweet">টুইট লোড হচ্ছে</string>
+    <string name="tw__login_btn_txt">টুইটার দিয়ে লগ ইন করুন</string>
+    <string name="tw__pause">বিরতি</string>
+    <string name="tw__play">প্লে</string>
+    <string name="tw__replay">রিপ্লে</string>
+    <string name="tw__retweeted_by_format">%1$s পুনঃটুইট করেছেন</string>
+    <string name="tw__share_content_format">\@%1$s -এর টুইট দেখুন: https://twitter.com/%1$s/status/%2$s</string>
+    <string name="tw__share_subject_format">%1$s (\@%2$s) থেকে টুইট</string>
+    <string name="tw__share_tweet">টুইট ভাগ করুন</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <string name="tw__tweet_media">টুইট মিডিয়া</string>
+</resources>

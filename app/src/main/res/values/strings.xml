@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JazzFestivalApp</string>
+
+    <!-- Drawer menu titles -->
+    <string name="menu_draw_news">Novedades</string>
+    <string name="menu_draw_artists">Artistas</string>
+    <string name="menu_draw_calendar">Agenda</string>
+    <string name="menu_draw_favs">Favoritos</string>
+    <string name="menu_draw_social">Redes Sociales</string>
+    <string name="menu_draw_info">Info Útil</string>
+    <string name="menu_draw_donations">Colaboraciones</string>
+    <string name="menu_draw_map">Como llegar</string>
+
+    <string name="more_button_text">Seguir leyendo...</string>
+
+    <string name="facebook_app_id">1860163514310134</string>
+
+    <string name="colaboration_text">Si desea colaborar, tiene estas opciones:</string>
+    <string name="cbu">123456789101112</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.camacuasoft.jazzfestivalapp.Fragments.NewsFragment"
+    android:id="@+id/news_frame"
+    >
+
+    <ScrollView
+        android:id="@+id/news_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/news_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </android.support.v7.widget.RecyclerView>
+
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/news_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foregroundGravity="bottom"
+        android:layout_gravity="bottom"
+        />
+
+</FrameLayout>

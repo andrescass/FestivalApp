@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.camacuasoft.jazzfestivalapp.Fragments.ArtistDeatilFragment">
+
+    <ScrollView
+        android:id="@+id/artist_detail_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    >
+
+        <LinearLayout
+            android:id="@+id/artist_detail_linearlay"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/artist_detail_act_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp" />
+
+            <ImageView
+                android:id="@+id/artist_detail_act_banner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                />
+
+            <TextView
+                android:id="@+id/artist_detail_act_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textAllCaps="true"
+                android:textColor="@color/colorPrimaryText"
+                android:textSize="26dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/artist_detail_act_bio"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/colorPrimaryText" />
+
+            <fragment
+                android:id="@+id/youtube_player_fragment"
+                android:name="com.google.android.youtube.player.YouTubePlayerFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

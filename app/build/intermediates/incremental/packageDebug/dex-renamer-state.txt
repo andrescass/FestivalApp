@@ -1,0 +1,7 @@
+#Wed Jul 26 19:43:33 ART 2017
+base.0=/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_55711e9e2ab72a5f65952503484e5bfdc9070a4f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e8065d3274f180ac6d3252e8891b5d44b1c86b0/classes.dex
+base.1=/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3e8065d3274f180ac6d3252e8891b5d44b1c86b0
+file.0=/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_55711e9e2ab72a5f65952503484e5bfdc9070a4f/classes.dex

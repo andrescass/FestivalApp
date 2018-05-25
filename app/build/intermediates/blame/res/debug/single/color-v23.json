@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/andres/.android/build-cache/00507b6d327610842fa6c501ce9d524ba7d5a0aa/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/andres/Documentos/Android/JazzFestivalApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/andres/.android/build-cache/2293173d4152cd4fc83bc7647f4e1c0a30358491/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]
